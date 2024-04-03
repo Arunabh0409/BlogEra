@@ -38,7 +38,9 @@ Once logged in, users gain access to their personalized dashboard. From here, th
 - **Update Posts**: Modify existing Posts.
 - **Read all Posts**: View a comprehensive list of all their Posts.
 - **Delete Posts**: Remove obsolete Posts from their list, keeping their dashboard clutter-free.
-- 
+
+### Redux Toolkit for Effective State Management of the Application 
+
 ### Real Time Editor Functionality + Toggling Feature ( Active/Inactive ) 
 
 ### Form Validation
