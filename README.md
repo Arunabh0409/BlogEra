@@ -42,6 +42,7 @@ Once logged in, users gain access to their personalized dashboard. From here, th
 ### Form Validation
 
 - **Form Validation**: Validation checks prevent users from setting completion times earlier than the current date or a negative priority, ensuring data consistency.
+- **React-Hook-Form**: Leveraged 3 Party Form Validation Package (npm react-hook-form)
 
 ## Installation🛠️
 
